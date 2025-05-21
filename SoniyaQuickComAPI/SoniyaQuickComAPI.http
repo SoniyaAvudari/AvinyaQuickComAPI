@@ -1,0 +1,6 @@
+@SoniyaQuickComAPI_HostAddress = http://localhost:5296
+
+GET {{SoniyaQuickComAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
