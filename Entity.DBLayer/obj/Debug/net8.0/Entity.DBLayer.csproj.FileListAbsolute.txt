@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\bin\Debug\net8.0\Entity.DBLayer.deps.json
+C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\bin\Debug\net8.0\Entity.DBLayer.dll
+C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\bin\Debug\net8.0\Entity.DBLayer.pdb
+C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.sourcelink.json
+C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.dll
+C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\obj\Debug\net8.0\refint\Entity.DBLayer.dll
+C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.pdb
+C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\obj\Debug\net8.0\ref\Entity.DBLayer.dll

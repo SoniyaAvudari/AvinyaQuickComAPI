@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "QuickCom.BussinessLayer/1.0.0": {
+        "dependencies": {
+          "Entity.DBLayer": "1.0.0"
+        },
+        "runtime": {
+          "QuickCom.BussinessLayer.dll": {}
+        }
+      },
+      "Entity.DBLayer/1.0.0": {
+        "runtime": {
+          "Entity.DBLayer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuickCom.BussinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entity.DBLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
