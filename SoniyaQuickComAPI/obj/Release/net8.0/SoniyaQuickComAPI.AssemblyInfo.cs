@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoniyaQuickComAPI")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0763124ba19b3dd23c84d07b0c4b89d792180b88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+093fea6fd13ac238eca9382e28f23ca6bfe443de")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoniyaQuickComAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoniyaQuickComAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
