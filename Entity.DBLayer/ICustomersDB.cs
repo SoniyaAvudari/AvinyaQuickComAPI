@@ -7,7 +7,7 @@ using Entity.DBLayer.Model;
 
 namespace Entity.DBLayer
 {
-    public interface Interface
+    public interface ICustomersDB
     {
         public Task<List<CustomersModel>> GetAllCustomer();
         public Task<List<CategoriesModel>> GetAllCategories();

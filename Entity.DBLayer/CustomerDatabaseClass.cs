@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Entity.DBLayer
 {
-    public class CustomerDatabaseClass : Interface
+    public class CustomerDatabaseClass : ICustomersDB
     {
 
 
