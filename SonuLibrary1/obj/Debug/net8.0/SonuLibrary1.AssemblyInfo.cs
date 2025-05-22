@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SonuLibrary1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b06947f692a4af713c331e240c4f927eef44dc4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9843113607f9ceb93beeb3eebb1c8ebac8c6ab70")]
 [assembly: System.Reflection.AssemblyProductAttribute("SonuLibrary1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SonuLibrary1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

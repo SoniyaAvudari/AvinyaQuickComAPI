@@ -10,3 +10,6 @@ C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\obj\De
 C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\obj\Debug\net8.0\refint\Entity.DBLayer.dll
 C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.pdb
 C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\obj\Debug\net8.0\ref\Entity.DBLayer.dll
+C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\bin\Debug\net8.0\Entity.DBLayer.runtimeconfig.json
+C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SoniyaAvudari\AvinyaQuickComAPI\Entity.DBLayer\obj\Debug\net8.0\Entity.DBLayer.genruntimeconfig.cache

@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickCom.BussinessLayer", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity.DBLayer", "..\Entity.DBLayer\Entity.DBLayer.csproj", "{189B7659-211F-4144-8CE5-25EA5A046DAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonuLibrary1", "..\SonuLibrary1\SonuLibrary1.csproj", "{8B356618-D7C1-437E-8E20-088E66E396E6}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{189B7659-211F-4144-8CE5-25EA5A046DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{189B7659-211F-4144-8CE5-25EA5A046DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{189B7659-211F-4144-8CE5-25EA5A046DAC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8B356618-D7C1-437E-8E20-088E66E396E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8B356618-D7C1-437E-8E20-088E66E396E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8B356618-D7C1-437E-8E20-088E66E396E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8B356618-D7C1-437E-8E20-088E66E396E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
