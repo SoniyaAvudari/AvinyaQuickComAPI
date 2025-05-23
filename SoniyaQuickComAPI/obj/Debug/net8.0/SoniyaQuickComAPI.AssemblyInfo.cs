@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoniyaQuickComAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9843113607f9ceb93beeb3eebb1c8ebac8c6ab70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03e9c002676c0454bb69995c445088a400b0c403")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoniyaQuickComAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoniyaQuickComAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

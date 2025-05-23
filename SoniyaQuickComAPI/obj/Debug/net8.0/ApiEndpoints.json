@@ -1,16 +1,160 @@
 [
   {
-    "ContainingType": "SoniyaQuickComAPI.Controllers.CategoryController",
+    "ContainingType": "SoniyaQuickComAPI.Controllers.CustomersController",
     "Method": "GetAllCategories",
-    "RelativePath": "api/Category/GetAllCategories",
+    "RelativePath": "api/Customers/GetAllCategories",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Void",
-        "MediaTypes": [],
+        "Type": "System.Collections.Generic.List\u00601[[Entity.DBLayer.Model.CategoriesModel, Entity.DBLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SoniyaQuickComAPI.Controllers.CustomersController",
+    "Method": "GetAllCustomer",
+    "RelativePath": "api/Customers/GetAllCustomer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Entity.DBLayer.Model.CustomersModel, Entity.DBLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SoniyaQuickComAPI.Controllers.CustomersController",
+    "Method": "GetAllEmployees",
+    "RelativePath": "api/Customers/GetAllEmployees",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Entity.DBLayer.Model.EmployeesModel, Entity.DBLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SoniyaQuickComAPI.Controllers.CustomersController",
+    "Method": "GetAllOrderDetails",
+    "RelativePath": "api/Customers/GetAllOrderDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Entity.DBLayer.Model.OrderDetailsModel, Entity.DBLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SoniyaQuickComAPI.Controllers.CustomersController",
+    "Method": "GetAllOrders",
+    "RelativePath": "api/Customers/GetAllOrders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Entity.DBLayer.Model.OrdersModel, Entity.DBLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SoniyaQuickComAPI.Controllers.CustomersController",
+    "Method": "GetAllProducts",
+    "RelativePath": "api/Customers/GetAllProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Entity.DBLayer.Model.ProductsModel, Entity.DBLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SoniyaQuickComAPI.Controllers.CustomersController",
+    "Method": "GetAllShippers",
+    "RelativePath": "api/Customers/GetAllShippers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Entity.DBLayer.Model.ShippersModel, Entity.DBLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SoniyaQuickComAPI.Controllers.CustomersController",
+    "Method": "GetAllSuppliers",
+    "RelativePath": "api/Customers/GetAllSuppliers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Entity.DBLayer.Model.SuppliersModel, Entity.DBLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
         "StatusCode": 200
       }
     ]
